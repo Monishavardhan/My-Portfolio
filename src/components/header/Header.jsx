@@ -1,7 +1,7 @@
 import React from "react";
 import "./header.css";
 import Button from "./Button";
-import ME from "../../assests/Mypicture.jpg";
+import ME from "../../assests/Mypicture.jpeg";
 import HeaderSocial from "./HeaderSocial";
 const Header = () => {
   return (

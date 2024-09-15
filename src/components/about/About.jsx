@@ -40,10 +40,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis
-            delectus placeat sapiente assumenda recusandae. Iste voluptate,
-            veritatis maxime deserunt qui molestias perspiciatis consequuntur
-            natus tempora magni est sequi aspernatur nam?
+          I'm a web developer specializing in React and SCSS, passionate about creating responsive, user-friendly applications With experience in building modern websites , efficient code, and optimizing user experience and real-time systems. 
           </p>
           <a href="#contact" className="btn btn-primary" alt="">
             Let's Talk

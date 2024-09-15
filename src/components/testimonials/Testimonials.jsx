@@ -18,25 +18,25 @@ const data = [
     avatar: AVATAR1,
     name: "shivani",
     review:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum esse assumenda dolorum repudiandae tempore exercitationem et quam voluptatibus autem ea sapiente veritatis porro omnis ab excepturi ut, provident aliquam ullam",
+      "The portfolio highlights exceptional creativity and attention to detail. Each project is well thought out, showcasing both design and functionality. The balance between aesthetics and usability is impressive. A highly professional approach and a great display of skill and expertise!",
   },
   {
     avatar: AVATAR2,
-    name: "shivani",
+    name: "Emma",
     review:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum esse assumenda dolorum repudiandae tempore exercitationem et quam voluptatibus autem ea sapiente veritatis porro omnis ab excepturi ut, provident aliquam ullam",
+      "This portfolio demonstrates a strong understanding of design principles and client needs. Each project reflects high technical skills and innovation. The variety of work shows versatility and the ability to deliver quality solutions consistently. A great example of professional, high-standard work!",
   },
   {
     avatar: AVATAR3,
-    name: "shivani",
+    name: "Bella",
     review:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum esse assumenda dolorum repudiandae tempore exercitationem et quam voluptatibus autem ea sapiente veritatis porro omnis ab excepturi ut, provident aliquam ullam",
+      "The portfolio shows a consistent level of high-quality work, with polished and professional designs throughout. The attention to detail and ability to convey complex ideas visually are outstanding. This is a solid collection of projects, clearly reflecting a passion for delivering excellence!",
   },
   {
     avatar: AVATAR4,
-    name: "shivani",
+    name: "John D",
     review:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum esse assumenda dolorum repudiandae tempore exercitationem et quam voluptatibus autem ea sapiente veritatis porro omnis ab excepturi ut, provident aliquam ullam",
+      "The portfolio is full of vibrant and engaging designs, each tailored to its specific project. The creativity and thoughtful execution really stand out. The work demonstrates an impressive combination of originality and practical application, making it a must-see for anyone seeking design inspiration!",
   },
 ];
 const Testimonials = () => {

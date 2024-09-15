@@ -17,44 +17,34 @@ const Services = () => {
             <li>
               <MdCheck className="service_list-icon" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
+              Conducting user interviews, surveys, and analysis to understand user needs and behaviors.
               </p>
             </li>
 
             <li>
               <MdCheck className="service_list-icon" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
+              Creating basic layouts and structures for websites and applications to map out functionality.
               </p>
             </li>
 
             <li>
               <MdCheck className="service_list-icon" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
+              Developing interactive prototypes to test and refine design ideas before development.
               </p>
             </li>
 
             <li>
               <MdCheck className="service_list-icon" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
+              Crafting visually appealing and intuitive user interfaces that enhance user experience.
               </p>
             </li>
 
-            <li>
-              <MdCheck className="service_list-icon" />
-              <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
-              </p>
-            </li>
+            
 
-            <li>
-              <MdCheck className="service_list-icon" />
-              <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
-              </p>
-            </li>
+            
           </ul>
         </article>
         {/*end of ui/ux */}
@@ -68,49 +58,49 @@ const Services = () => {
             <li>
               <MdCheck className="service_list-icon" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
+              Building interactive and responsive user interfaces
               </p>
             </li>
 
             <li>
               <MdCheck className="service_list-icon" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
+              Creating server-side functionality and database management.
               </p>
             </li>
 
             <li>
               <MdCheck className="service_list-icon" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
+              Implementing systems for easy content updates and management.
               </p>
             </li>
 
             <li>
               <MdCheck className="service_list-icon" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
+              Ensuring websites work across various devices and screens.
               </p>
             </li>
 
             <li>
               <MdCheck className="service_list-icon" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
+              Providing ongoing updates and technical support.
               </p>
             </li>
 
             <li>
               <MdCheck className="service_list-icon" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
+              Improving website speed and performance.
               </p>
             </li>
 
             <li>
               <MdCheck className="service_list-icon" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
+              Building tailored solutions for specific business needs.
               </p>
             </li>
           </ul>
@@ -126,44 +116,34 @@ const Services = () => {
             <li>
               <MdCheck className="service_list-icon" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
+              Creating marketing materials, and websites to drive conversions and communicate your brand’s message.
               </p>
             </li>
 
             <li>
               <MdCheck className="service_list-icon" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
+              Writing insightful, well-researched articles for blogs that engage readers, drive traffic.
               </p>
             </li>
 
             <li>
               <MdCheck className="service_list-icon" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
+              Writing compelling descriptions and unique selling points to attract.
               </p>
             </li>
 
             <li>
               <MdCheck className="service_list-icon" />
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
+              Creating clear, persuasive, and user-friendly content for websites to effectively communicate your message and visitor action.
               </p>
             </li>
 
-            <li>
-              <MdCheck className="service_list-icon" />
-              <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
-              </p>
-            </li>
+            
 
-            <li>
-              <MdCheck className="service_list-icon" />
-              <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius.
-              </p>
-            </li>
+            
           </ul>
         </article>
         {/*end of content creation */}
